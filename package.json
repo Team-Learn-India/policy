@@ -2,7 +2,7 @@
   "name": "policy-pages",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://team-learn-india.github.io/policy",
+  "homepage": "https://team-learn-india.github.io/",
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build",
